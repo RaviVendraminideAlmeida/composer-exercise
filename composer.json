@@ -13,6 +13,7 @@
     ],
     "require": {
         "fakerphp/faker": "^1.24",
-        "twbs/bootstrap": "^5.3"
+        "twbs/bootstrap": "^5.3",
+        "components/jquery": "^3.7"
     }
 }
